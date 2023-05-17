@@ -3,3 +3,4 @@ testing text 1
 git pull origin main
 
 hola lean! 
+generando conflicto y solucionandolo con git merge origin main
